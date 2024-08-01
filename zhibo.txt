@@ -18,7 +18,7 @@ CCTV15,http://123.183.77.137:808/hls/15/index.m3u8
 CCTV16,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
 CCTV17,http://123.183.77.137:808/hls/93/index.m3u8
 
-地方频道，#genre#
+地方频道,#genre#
 河北卫视，http://123.183.77.137:808/hls/16/index.m3u8
 湖南卫视，http://123.183.77.137:808/hls/27/index.m3u8
 浙江卫视，http://123.183.77.137:808/hls/28/index.m3u8
